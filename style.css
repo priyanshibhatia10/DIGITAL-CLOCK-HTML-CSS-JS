@@ -1,0 +1,49 @@
+body {
+    background: black;
+  text-align: center;
+}
+
+
+#MyClockDisplay{
+   border: 2px dashed yellow;
+   padding:10px;
+   border-radius: 20px;
+    width: 750px;
+    top: 50%;
+   margin-left: 500px;
+ 
+  
+   
+    color: #e7bfe8;
+    font-size: 100px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+  margin-bottom: 100px;
+  
+  
+}
+#MydateDisplay{
+   border: 2px dashed yellow;
+   padding:10px;
+   border-radius: 20px;
+  width: 750px;
+    top: 50%;
+    left: 50%;
+    margin-left: 500px;
+    color: #e7bfe8;
+    font-size: 100px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+  margin-bottom: 100px;
+}
+
+h1,h2{
+  text-align: center;
+  color:#18d3ec;
+  margin:20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 70px;
+  text-transform: uppercase;
+}
+
